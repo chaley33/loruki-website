@@ -27,7 +27,6 @@
             </nav>
         </div>
     </div>
-
     <!-- Showcase -->
     <section class="showcase">
         <div class="container grid">
@@ -37,7 +36,6 @@
                     Fill out the form to try a demo of our platform</p>
                 <a href="features.html" class="btn btn-outline">Read More</a>
             </div>
-
             <div class="showcase-form card">
                 <h2>Request a Demo</h2>
                 <form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field">
@@ -59,14 +57,12 @@
             </div>
         </div>
     </section>
-
     <!-- Stats -->
     <section class="stats">
         <div class="container">
             <h3 class="stats-heading text-center my-1">
                 Welcome to the best platform for building applications of all types with modern architecture and scaling
             </h3>
-
             <div class="grid grid-3 text-center my-3">
                 <div>
                     <i class="fas fa-server fa-3x"></i>
@@ -86,7 +82,6 @@
             </div>
         </div>
     </section>
-
     <!-- Cli -->
     <section class="cli">
         <div class="container grid">
@@ -99,7 +94,6 @@
             </div>
         </div>
     </section>
-
     <!-- Cloud -->
     <section class="cloud bg-primary my-1_5 py-1_5">
         <div class="container grid">
@@ -111,13 +105,11 @@
             <img src="images/cloud.png" alt="">
         </div>
     </section>
-
     <!-- Supported Languages -->
     <section class="languages">
         <h2 class="md text-center my-2">
             Supported Languages
         </h2>
-
         <div class="container flex">
             <div class="card">
                 <h4>Node.js</h4>
@@ -149,7 +141,6 @@
             </div>
         </div>
     </section>
-
     <!-- Footer -->
     <footer class="footer bg-dark py-5">
         <div class="container grid grid-3">
@@ -173,5 +164,4 @@
         </div>
     </footer>
 </body>
-
 </html>
